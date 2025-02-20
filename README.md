@@ -9,3 +9,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thejus-paul&theme=react&show_icons=false&count_private=true&hide_border=true" width="415px" />
 </div>
+<br />
+
+![Thejus' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thejus-Paul&theme=react)
