@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Thejus
 
-<span>I'm a Sofware Engineer at <a href="https://github.com/bigbinary">BigBinary</a> and I love coding with Ruby, JavaScript and TypeScript.</span>
+I'm passionate about Elixir, Ruby, Rust, and TypeScript, and I thrive in the world of web development. I enjoy crafting clean, efficient code through automated testing, linting, and performance optimization.
 
 <img src="https://komarev.com/ghpvc/?username=thejus-paul&label=Profile%20views&color=0e75b6&style=flat" alt="thejus-paul" >
 
